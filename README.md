@@ -22,5 +22,4 @@ Le moyen le plus simple pour utiliser ces exercices est de crée sois même un p
   - Ctrl + Shift + P
   - Tapez .NET: New Project
   - Choissisez : Console app
--  Copiez-Collez le contenu de ExerciceCSharpConsoleApp/Exercice C#/Program.cs
-   Dans votre Program.cs
+-  Copiez-Collez le contenu de Exercice C#/Program.cs dans votre Program.cs
