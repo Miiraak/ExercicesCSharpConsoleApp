@@ -271,7 +271,7 @@
                                     Tab3();
                                     break; 
                                 case 4:
-                                    //Console.Clear();
+                                    Console.Clear();
                                     Console.WriteLine("");
                                     Tab4();
                                     break; 
@@ -331,13 +331,8 @@
                                     break;
                             }
                             break; 
-                        
+                 
                         case 9:
-                            Console.Clear();
-                            Console.WriteLine("\nZONE DE TEST\n");
-                            break;
-
-                        case 10:
                             continuer = false;
                             Console.Clear();
                             Console.WriteLine("");
@@ -379,8 +374,7 @@
             Console.WriteLine("6. Fonctions");
             Console.WriteLine("7. Tableau");
             Console.WriteLine("8. Listes");
-            Console.WriteLine("9. ZONE TEST");
-            Console.WriteLine("10. Quitter");
+            Console.WriteLine("9. Quitter");
             Console.Write("Entrez votre choix : ");
         }
 
