@@ -1,1 +1,3 @@
-# Exercice C# (for Github)
+# Exercice C#
+
+Liste d'exercice débutant
