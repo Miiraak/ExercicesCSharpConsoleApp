@@ -11,3 +11,16 @@ Les exercices couvrent les points suivants :
 - Fonctions
 - Tableaux
 - Listes
+_________
+  
+ 
+## Utilisation
+Le moyen le plus simple pour utiliser ces exercices est de crée sois même un projet sous VisualStudio Code. 
+### Pour ce faire :
+- Installez VS Code
+- Créez un projet :
+  - Ctrl + Shift + P
+  - Tapez .NET: New Project
+  - Choissisez : Console app
+-  Copiez-Collez le contenu de ExerciceCSharpConsoleApp/Exercice C#/Program.cs
+   Dans votre Program.cs
