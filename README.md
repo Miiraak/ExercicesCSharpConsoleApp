@@ -23,3 +23,8 @@ Le moyen le plus simple pour utiliser ces exercices est de crée sois même un p
   - Tapez .NET: New Project
   - Choissisez : Console app
 -  Copiez-Collez le contenu de Exercice C#/Program.cs dans votre Program.cs
+
+Une fois fait, vous pouvez réduire le code aux endrois indiqués, ces partie permettent l'affichage et le fonctionnement du menu console.
+Vous n'avez rien a modifier ici, allez dans la partie "Exercice", les exercice y sont directement marqué avec une zone prévue pour vos codes.
+
+### Bon entrainement !
