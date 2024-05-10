@@ -1,4 +1,9 @@
 ## Exercices C# débutant 
+_____________________
+____________________
+⚠️⚠️ Continuité ici [SimpleMenu x ExCSharpConsole](https://github.com/Miiraak/SimpleCoursCSharp) ⚠️⚠️
+____________________
+_____________________
 Liste d'exercices pour C# en console app sous VisualStudioCode.  
 
 #### Contient une trentaine d'exercice réparti sur 8 catégorie.
